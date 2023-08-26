@@ -1,0 +1,4 @@
+Muqaddas,123,Admin
+user,111,Student
+w,2,Admin
+q,1,student

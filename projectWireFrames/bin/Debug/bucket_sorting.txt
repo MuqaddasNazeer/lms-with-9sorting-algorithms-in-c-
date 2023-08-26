@@ -1,0 +1,10 @@
+nishat,hasrat,2,450,6
+Roshni,Thomas,12,33,4
+udasiyan,mm Alam,34,345,5
+Dil-e-Nadan,Mohani,100,500,7
+Namal,NimraAhmad,120,500,3
+Qalbe-e-Momin,Iqbal,132,45,6
+muqadas,nazeer,250,233,1
+Jannat,patras,1000,670,5
+Bang-e-dara,Iqbal,1234,500,2
+booksb,anarkali,45000,450,34

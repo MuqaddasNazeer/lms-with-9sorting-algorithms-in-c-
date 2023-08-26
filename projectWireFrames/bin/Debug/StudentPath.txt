@@ -1,0 +1,4 @@
+
+muqadas,123,3,2,BSCS,second
+ali,222,3,3,BCSE,fourth
+hamza,444,5,0,BSCE,third

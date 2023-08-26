@@ -1,0 +1,57 @@
+D:\week9\projectWireFrames\projectWireFrames\bin\Debug\projectWireFrames.exe.config
+D:\week9\projectWireFrames\projectWireFrames\bin\Debug\projectWireFrames.exe
+D:\week9\projectWireFrames\projectWireFrames\bin\Debug\projectWireFrames.pdb
+D:\week9\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.csproj.AssemblyReference.cache
+D:\week9\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.Properties.Resources.resources
+D:\week9\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.csproj.GenerateResource.cache
+D:\week9\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.csproj.CoreCompileInputs.cache
+D:\week9\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.exe
+D:\week9\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.pdb
+D:\week9\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.lms.resources
+D:\week9\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.mianForm.resources
+D:\week9\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.liabrarianlogin.resources
+D:\week9\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.signin.resources
+D:\week9\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.sighUp.resources
+D:\week9\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.librarianMenu.resources
+D:\week9\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.manageBooks.resources
+D:\week9\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.manageStudents.resources
+D:\week9\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.StudentMenu.resources
+D:\week9\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.addBookForm.resources
+D:\Second_Semester_OOP\game and project\projectWireFrames\projectWireFrames\bin\Debug\projectWireFrames.exe.config
+D:\Second_Semester_OOP\game and project\projectWireFrames\projectWireFrames\bin\Debug\projectWireFrames.exe
+D:\Second_Semester_OOP\game and project\projectWireFrames\projectWireFrames\bin\Debug\projectWireFrames.pdb
+D:\Second_Semester_OOP\game and project\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.csproj.AssemblyReference.cache
+D:\Second_Semester_OOP\game and project\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.csproj.SuggestedBindingRedirects.cache
+D:\Second_Semester_OOP\game and project\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.addBookForm.resources
+D:\Second_Semester_OOP\game and project\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.lms.resources
+D:\Second_Semester_OOP\game and project\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.liabrarianlogin.resources
+D:\Second_Semester_OOP\game and project\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.librarianMenu.resources
+D:\Second_Semester_OOP\game and project\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.manageBooks.resources
+D:\Second_Semester_OOP\game and project\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.manageStudents.resources
+D:\Second_Semester_OOP\game and project\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.mianForm.resources
+D:\Second_Semester_OOP\game and project\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.Properties.Resources.resources
+D:\Second_Semester_OOP\game and project\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.sighUp.resources
+D:\Second_Semester_OOP\game and project\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.signIn.resources
+D:\Second_Semester_OOP\game and project\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.StudentMenu.resources
+D:\Second_Semester_OOP\game and project\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.csproj.GenerateResource.cache
+D:\Second_Semester_OOP\game and project\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.csproj.CoreCompileInputs.cache
+D:\Second_Semester_OOP\game and project\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.exe
+D:\Second_Semester_OOP\game and project\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.pdb
+D:\Third_Semester\DSA\week9\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.csproj.AssemblyReference.cache
+D:\Third_Semester\DSA\week9\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.csproj.SuggestedBindingRedirects.cache
+D:\Third_Semester\DSA\week9\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.addBookForm.resources
+D:\Third_Semester\DSA\week9\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.lms.resources
+D:\Third_Semester\DSA\week9\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.liabrarianlogin.resources
+D:\Third_Semester\DSA\week9\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.librarianMenu.resources
+D:\Third_Semester\DSA\week9\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.manageBooks.resources
+D:\Third_Semester\DSA\week9\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.manageStudents.resources
+D:\Third_Semester\DSA\week9\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.mianForm.resources
+D:\Third_Semester\DSA\week9\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.Properties.Resources.resources
+D:\Third_Semester\DSA\week9\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.sighUp.resources
+D:\Third_Semester\DSA\week9\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.signIn.resources
+D:\Third_Semester\DSA\week9\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.sorting.resources
+D:\Third_Semester\DSA\week9\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.StudentMenu.resources
+D:\Third_Semester\DSA\week9\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.csproj.GenerateResource.cache
+D:\Third_Semester\DSA\week9\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.csproj.CoreCompileInputs.cache
+D:\Third_Semester\DSA\week9\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.exe
+D:\Third_Semester\DSA\week9\projectWireFrames\projectWireFrames\obj\Debug\projectWireFrames.pdb
